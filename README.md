@@ -1,5 +1,11 @@
 # Neyman-Pearson Hypothesis Testing
 
+![R](https://img.shields.io/badge/R-4.5+-276DC3?logo=r&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/pewandera/Neyman-Pearson-Hypothesis-Testing)
+![GitHub repo size](https://img.shields.io/github/repo-size/pewandera/Neyman-Pearson-Hypothesis-Testing)
+![GitHub stars](https://img.shields.io/github/stars/pewandera/Neyman-Pearson-Hypothesis-Testing?style=social)
+
 ## Overview
 
 This repository accompanies a research seminar on the **Neyman-Pearson Lemma** and its application to statistical hypothesis testing using the Iris dataset in R.
