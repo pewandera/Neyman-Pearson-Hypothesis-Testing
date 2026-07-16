@@ -40,8 +40,10 @@ The analyses use the classic **Iris dataset** to illustrate each concept through
 
 ---
 
+
 ## Repository Structure
 
+![Repository Structure](figures/repository_structure.png)
 ```
 Neyman-Pearson-Hypothesis-Testing/
 │
