@@ -44,20 +44,6 @@ The analyses use the classic **Iris dataset** to illustrate each concept through
 ## Repository Structure
 
 ![Repository Structure](figures/repository_structure.png)
-```
-Neyman-Pearson-Hypothesis-Testing/
-│
-├── data/           # Dataset used in the analysis
-├── scripts/        # R scripts
-├── notebook/       # R Markdown notebooks
-├── figures/        # Plots and diagrams
-├── output/         # Statistical results
-├── paper/          # Seminar paper
-├── report/         # Final report
-├── references/     # Bibliography and citations
-├── Slides/         # Presentation slides
-└── README.md
-```
 
 ---
 
