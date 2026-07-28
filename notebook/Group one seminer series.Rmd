@@ -7,8 +7,8 @@ markdown
 
 ---
 title: "Neyman‑Pearson Hypothesis Testing on Iris Data"
-author: "Your "Fatuma Nabayima"
-date: "`r Sys.Date(24-July-26)
+author: "GROUP ONE"
+date: "`r Sys.Date()
 output:
   html_document:
     toc: true
